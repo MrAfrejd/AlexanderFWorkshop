@@ -265,6 +265,17 @@
                 },
                 {
                     "name": "",
+                    "id": "c55b8844-8ba3-47c4-9ca6-107cc35b4f2b",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "33dcf46c-5097-41fb-8ac5-f783e7a7253a",
                     "path": "<Keyboard>/space",
                     "interactions": "",
@@ -643,6 +654,17 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse;Gamepad;Touch;Joystick;XR",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bce3cc68-8dc8-405b-aa25-0daad5c7eee8",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
                     "action": "Submit",
                     "isComposite": false,
                     "isPartOfComposite": false
