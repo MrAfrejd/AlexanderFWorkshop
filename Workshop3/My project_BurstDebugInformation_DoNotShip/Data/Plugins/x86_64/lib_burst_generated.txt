@@ -1,4 +1,4 @@
-Library: C:\temp\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Users\alexa\Documents\GitHub\AlexanderFWorkshop\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-16
 --target=X64_SSE2
@@ -53,10 +53,10 @@ Library: C:\temp\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gener
 --assembly-defines=mscorlib;
 --linker-options=PdbAltPath="My project_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\temp\My project\Temp\Burst
+--temp-folder=C:\Users\alexa\Documents\GitHub\AlexanderFWorkshop\Temp\Burst
 --key-folder=C:/Program Files/Unity 2022.3.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\temp\My project\Library\Burst
---output=C:\temp\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\alexa\Documents\GitHub\AlexanderFWorkshop\Library\Burst
+--output=C:\Users\alexa\Documents\GitHub\AlexanderFWorkshop\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -144,10 +144,10 @@ Library: C:\temp\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gener
 --assembly-defines=mscorlib;
 --linker-options=PdbAltPath="My project_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\temp\My project\Temp\Burst
+--temp-folder=C:\Users\alexa\Documents\GitHub\AlexanderFWorkshop\Temp\Burst
 --key-folder=C:/Program Files/Unity 2022.3.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\temp\My project\Library\Burst
---output=C:\temp\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\alexa\Documents\GitHub\AlexanderFWorkshop\Library\Burst
+--output=C:\Users\alexa\Documents\GitHub\AlexanderFWorkshop\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
