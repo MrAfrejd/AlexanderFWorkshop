@@ -95,7 +95,9 @@ public class PlatformerMovement : MonoBehaviour
         isGrounded = IsGrounded();
         ApplyGravity();
         rb.velocity = velocity;
-        
+
+        bool walking = velocity.x > 0.01 || velocity.x < -0.01;
+        animator.SetBool("Walk", walking);
         // Write movement animation code here. (Suggestion: send your current velocity into the Animator for both the x- and y-axis.)
     }
 
